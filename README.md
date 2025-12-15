@@ -33,20 +33,31 @@ The app allows users to apply color filters to images either step-by-step or thr
 
 ## 🖥️ Application Preview
 - **When execute**:
+![App Screenshot](https://raw.githubusercontent.com/janais9/Picture-Change-Filter-App/main/Screenshot%202025-12-15%20090151.png)
 
 - **Left Panel**: Step-based image filtering
 - **Right Panel**: Animated image filtering
-- 
+  ![App Screenshot](https://raw.githubusercontent.com/janais9/Picture-Change-Filter-App/main/Screenshot%202025-12-15%20090250.png)
+
+  
 - **Buttons**:
   - `Step` → Applies filter once:
-    
   - `Start / Stop` → Toggles animation
-    
   - `Reset` → Restores original image
+ 
+  ![App Screenshot](https://raw.githubusercontent.com/janais9/Picture-Change-Filter-App/main/Screenshot%202025-12-15%20090301.png)
+
 
 ---
+## ⚠️ Performance Alert
+If image processing takes longer than **500 ms**, a warning dialog will appear:
+> "We apologize, image processing will take some time."
 
-## 🚀 How to Run
+This helps demonstrate responsiveness and user feedback in UI applications.
+
+
+---
+ ## 🚀 Try It!!
 
 1. Make sure you have **Java JDK 8 or higher**
 2. Clone the repository:
