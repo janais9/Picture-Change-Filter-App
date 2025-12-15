@@ -32,12 +32,16 @@ The app allows users to apply color filters to images either step-by-step or thr
 ---
 
 ## 🖥️ Application Preview
+- **When execute**:
 
-- **Left Panel**: Step-based image filtering  
-- **Right Panel**: Animated image filtering  
+- **Left Panel**: Step-based image filtering
+- **Right Panel**: Animated image filtering
+- 
 - **Buttons**:
-  - `Step` → Applies filter once
+  - `Step` → Applies filter once:
+    
   - `Start / Stop` → Toggles animation
+    
   - `Reset` → Restores original image
 
 ---
